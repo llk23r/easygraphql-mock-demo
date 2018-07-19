@@ -51,7 +51,7 @@ type Query {
 }
 
 type Mutation {
-  createUser(input: UserInput!): Me
+  createUser(input: UserInput!): User
   login(input: LoginInput!): Me
   updatePassword(input: UpdatePasswordInput!): Me
 }

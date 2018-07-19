@@ -1,6 +1,12 @@
-# Easy GQL Mock Demo
+<h1 align="center">
+  <img src="https://cdn.rawgit.com/EasyGraphQL/easygraphql-mock/baab331c/EasyGraphQL.png" alt="EasyGraphQL Mock " width="350">
+  <br>
+  EasyGraphQL Mock Demo
+  <br>
+  <br>
+</h1>
 
-This is a demo of `easygqlmock`.
+This is a demo of `easygraphql-mock`.
 
 To run the demo yourself, git clone the repo and then
 ```bash

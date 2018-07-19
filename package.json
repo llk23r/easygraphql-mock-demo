@@ -15,22 +15,22 @@
     "mock",
     "schema"
   ],
-  "homepage": "https://github.com/EasyGraphQL/easygqlmock-demo",
+  "homepage": "https://github.com/EasyGraphQL/easygraphql-mock-demo",
   "author": {
-    "name": "estrada9166",
-    "url": "https://github.com/estrada9166"
+    "name": "EasyGraphQL",
+    "url": "https://github.com/EasyGraphQL"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/EasyGraphQL/easygqlmock-demo"
+    "url": "https://github.com/EasyGraphQL/easygraphql-mock-demo"
   },
   "bugs": {
-    "url": "https://github.com/EasyGraphQL/easygqlmock-demo/issues"
+    "url": "https://github.com/EasyGraphQL/easygraphql-mock-demo/issues"
   },
   "license": "MIT",
   "dependencies": {
     "body-parser": "^1.18.2",
-    "easygqlmock": "0.0.1",
+    "easygraphql-mock": "0.0.4",
     "express": "^4.16.2",
     "express-graphql": "^0.6.12",
     "graphql": "^0.13.1",
